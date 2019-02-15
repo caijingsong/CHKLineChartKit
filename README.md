@@ -22,7 +22,7 @@ pod 'CHKLineChartKit'
 
 ## Author
 
-magentaqin, qinmu@16financial.com
+magentaqin
 
 ## License
 
