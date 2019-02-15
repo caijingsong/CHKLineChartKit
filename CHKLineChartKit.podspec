@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'CHKLineChartKit'
   s.version          = '1.0.2'
   s.summary          = 'CHKLineChartKit Library'
-  s.swift_version = '4.2.1'
+  s.swift_version = '4.2'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
