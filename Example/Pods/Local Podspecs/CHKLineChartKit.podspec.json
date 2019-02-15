@@ -1,0 +1,22 @@
+{
+  "name": "CHKLineChartKit",
+  "version": "0.1.0",
+  "summary": "A short description of CHKLineChartKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/magentaqin/CHKLineChartKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "magentaqin": "qinmu@16financial.com"
+  },
+  "source": {
+    "git": "https://github.com/magentaqin/CHKLineChartKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CHKLineChartKit/Classes/**/*"
+}

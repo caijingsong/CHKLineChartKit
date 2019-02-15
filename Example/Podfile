@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CHKLineChartKit_Tests' do
+  pod 'CHKLineChartKit', :path => '../'
+  
+  
+end

@@ -1,0 +1,16 @@
+PODS:
+  - CHKLineChartKit (0.1.0)
+
+DEPENDENCIES:
+  - CHKLineChartKit (from `../`)
+
+EXTERNAL SOURCES:
+  CHKLineChartKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CHKLineChartKit: f764572eed3460e7cada181e11722f08c3e71f98
+
+PODFILE CHECKSUM: 872697c8e9d2ec4297daff6eab4660106dede949
+
+COCOAPODS: 1.5.3
